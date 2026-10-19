@@ -66,7 +66,7 @@ I build practical web applications, browser automation tools, and AI-powered wor
 
 - GitHub: [@myjai17](https://github.com/myjai17)
 - Website: [a2z.upcsc.co.in](https://a2z.upcsc.co.in/)
-
+- Website: [jaisinghrajpoot.blogspot.com](https://jaisinghrajpoot.blogspot.com/)
 ---
 
 <div align="center">
